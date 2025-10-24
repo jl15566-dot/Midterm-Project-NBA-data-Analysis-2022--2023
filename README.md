@@ -35,3 +35,6 @@ The analysis follows a structured three-phase approach:
 - matplotlib, seaborn (Data visualization)
 - Web scraping
 - Jupyter Notebook (Analysis environment)
+## Data Source
+https://www.basketball-reference.com/players/e/embiijo01/gamelog/2023
+https://www.basketball-reference.com/leagues/NBA_2023_per_game.html
